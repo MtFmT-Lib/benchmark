@@ -1,0 +1,3 @@
+[submodule "src/mtfmt"]
+	path = src/mtfmt
+	url = https://github.com/MtFmT-Lib/mtfmt.git
